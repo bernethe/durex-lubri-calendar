@@ -1,0 +1,60 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+    font-family: 'One Night Sans';
+    font-weight: 500; font-style: normal; font-display: swap;
+    src: local('OneNightSans-Medium'), 
+        url(@/assets/fonts/OneNightSans-Medium.woff2) format('woff2'),
+        url(@/assets/fonts/OneNightSans-Medium.woff) format('woff');
+}
+
+@font-face {
+    font-family: 'One Night Sans';
+    font-weight: 100; font-style: normal; font-display: swap;
+    src: local('OneNightSans-Thin'), 
+        url(@/assets/fonts/OneNightSans-Thin.woff2) format('woff2'),
+        url(@/assets/fonts/OneNightSans-Thin.woff) format('woff');
+}
+
+@font-face {
+    font-family: 'One Night Sans';
+    font-weight: bold; font-style: normal; font-display: swap;
+    src: local('OneNightSans-Black'), 
+        url(@/assets/fonts/OneNightSans-Black.woff2) format('woff2'),
+        url(@/assets/fonts/OneNightSans-Black.woff) format('woff');
+}
+
+@font-face {
+    font-family: 'One Night Sans Condensed';
+    font-weight: 100; font-style: normal; font-display: swap;
+    src: local('OneNightSans-CondensedThin'), 
+        url(@/assets/fonts/OneNightSans-CondensedThin.woff2) format('woff2'),
+        url(@/assets/fonts/OneNightSans-CondensedThin.woff) format('woff');
+}
+
+@font-face {
+    font-family: 'One Night Sans Condensed';
+    font-weight: bold; font-style: normal; font-display: swap;
+    src: local('OneNightSans-CondensedBlack'), 
+        url(@/assets/fonts/OneNightSans-CondensedBlack.woff2) format('woff2'),
+        url(@/assets/fonts/OneNightSans-CondensedBlack.woff) format('woff');
+}
+
+@font-face {
+    font-family: 'One Night Sans Extended';
+    font-weight: bold; font-style: normal; font-display: swap;
+    src: local('OneNightSans-ExtendedBlack'), 
+        url(@/assets/fonts/OneNightSans-ExtendedBlack.woff2) format('woff2'),
+        url(@/assets/fonts/OneNightSans-ExtendedBlack.woff) format('woff');
+}
+
+body, html { scroll-behavior: smooth; }
+
+.bg-tropical {
+    background-image: url(@/assets/img/bg-tropical.svg);
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+}

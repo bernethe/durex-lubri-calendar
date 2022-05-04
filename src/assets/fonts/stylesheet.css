@@ -1,0 +1,54 @@
+@font-face {
+    font-family: 'One Night Sans';
+    src: url('OneNightSans-Medium.woff2') format('woff2'),
+        url('OneNightSans-Medium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'One Night Sans';
+    src: url('OneNightSans-Thin.woff2') format('woff2'),
+        url('OneNightSans-Thin.woff') format('woff');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'One Night Sans Condensed';
+    src: url('OneNightSans-CondensedThin.woff2') format('woff2'),
+        url('OneNightSans-CondensedThin.woff') format('woff');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'One Night Sans Extended';
+    src: url('OneNightSans-ExtendedBlack.woff2') format('woff2'),
+        url('OneNightSans-ExtendedBlack.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'One Night Sans Condensed';
+    src: url('OneNightSans-CondensedBlack.woff2') format('woff2'),
+        url('OneNightSans-CondensedBlack.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'One Night Sans';
+    src: url('OneNightSans-Black.woff2') format('woff2'),
+        url('OneNightSans-Black.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
