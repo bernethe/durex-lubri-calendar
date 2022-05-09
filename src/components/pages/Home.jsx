@@ -34,7 +34,7 @@ const Home = ({myDate, setMyDate}) => {
 					{ changeDate && <button className='bg-primary rounded py-2 px-4 my-4 text-white hover:bg-primary/75' onClick={handleClick}>Calcular</button> }
 				</div>
 			</div>
-			<p className='text-xs my-4 w-full sm:w-1/2 mx-auto'>Redordá que no todos los ciclos menstruales son iguales y que cada cuerpo es diferente. Esto está basado en un ciclo menstrual promedio regular. Siempre tené en cuenta que tu médico es quien te puede dar la asesoría personalizada y adecuada.</p>
+			<p className='text-xs my-4 w-full sm:w-1/2 mx-auto'>Recordá que no todos los ciclos menstruales son iguales y que cada cuerpo es diferente. Esto está basado en un ciclo menstrual promedio regular. Siempre tené en cuenta que tu médico es quien te puede dar la asesoría personalizada y adecuada.</p>
 			<p className='text-xs my-8'>Lee la etiqueta del producto antes de su uso. <br /> RB-M-98318.</p>
 		</div>
 	</div>

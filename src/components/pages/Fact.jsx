@@ -3,7 +3,7 @@ import React from 'react'
 const Fact = () => {
     return <div className='x-2 flex flex-col justify-between bg-white w-full sm:w-1/2 mx-auto'>
         <div className='my-4'>
-            <p className='text-center text-2xl'><strong className='text-3xl'>LA POCA LUBRICACIÓN PUEDEAFECTAR TU SALUD <br /> VAGINAL Y SEXUAL</strong></p>
+            <p className='text-center text-2xl'><strong className='text-3xl'>LA POCA LUBRICACIÓN PUEDE AFECTAR TU SALUD <br /> VAGINAL Y SEXUAL</strong></p>
         </div>
         <div className='my-4 text-center'>
             <div className='bg-primary text-white inline-block px-8 py-2 rounded-full font-bold text-xl mb-4'>¿SABÍAS QUE?</div>
