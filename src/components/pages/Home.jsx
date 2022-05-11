@@ -20,7 +20,7 @@ const Home = ({myDate, setMyDate}) => {
 					<img src={ProductImg} alt="Durex Gel Lubricante Naturals" className='max-w-[150px] w-full' />
 				</div>
 				<div className='w-2/3 sm:w-4/5 px-4'>
-					<div className='bg-primary text-white inline-block px-8 rounded-full font-bold text-xl mb-4'><span className='font-OneNightSansExtended block'>NUEVO</span> LUBRICATE</div>
+					<div className='bg-primary text-white inline-block px-8 rounded-full font-bold text-xl mb-4'><span className='font-OneNightSansExtended block'>NUEVO</span> LUBRICANTE</div>
 					<h1 className='text-lg sm:text-xs'><span className='block text-4xl sm:text-3xl font-bold'>¡LUBRICATE!</span> HACELO COMO TE GUSTA</h1>
 					<p><span className='font-thin'>Identificá los días en los que tu vagina</span> <br /> <strong className='uppercase'>no cuenta con una lubricación óptima debido a tu ciclo menstrual</strong></p>
 				</div>

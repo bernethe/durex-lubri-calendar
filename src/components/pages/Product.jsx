@@ -19,7 +19,7 @@ const Product = () => {
 					<img src={ProductImg} alt="Durex Gel Lubricante Naturals" className='max-w-[150px] w-full' />
 				</div>
 				<div className='w-2/3 px-4 text-center'>
-					<div className='bg-primary text-white inline-block px-8 rounded-full font-bold text-xl mb-4'><span className='font-OneNightSansExtended block'>NUEVO</span> LUBRICATE</div>
+					<div className='bg-primary text-white inline-block px-8 rounded-full font-bold text-xl mb-4'><span className='font-OneNightSansExtended block'>NUEVO</span> LUBRICANTE</div>
 					<h1 className='text-lg'><span className='block text-4xl sm:text-4xl font-bold'>¡LUBRICATE!</span> HACELO COMO TE GUSTA</h1>
 				</div>
 			</div>
